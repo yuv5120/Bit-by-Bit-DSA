@@ -1,0 +1,116 @@
+Permutation Sequence
+
+The set [1, 2, 3, ..., n] contains a total of n! unique permutations.
+
+By listing and labeling all of the permutations in order, we get the following sequence for n = 3:
+
+"123"
+"132"
+"213"
+"231"
+"312"
+"321"
+
+Given n and k, return the kth permutation sequence.
+
+** 
+Approach (Factorial Number System)
+
+1.) There are n! total permutations.
+2.) Fixing the first digit divides them into (n-1)! groups.
+Example: For n=3, total 3!=6 permutations.
+First digit 1: permutations 1–2
+First digit 2: permutations 3–4
+First digit 3: permutations 5–6
+
+3.) Find Digits Step by Step
+i) Use (k-1) (0-based index).
+At each step:
+Compute group index: idx = k / (n-1)!
+Pick digit at index idx from available numbers.
+Remove it from the list.
+Update k = k % (n-1)!
+Continue until all digits are picked.
+Build the answer string.
+
+**
+CODE:
+class Solution {
+public:
+    string getPermutation(int n, int k) {
+    vector<int> numbers;
+    vector<int> fact(n+1, 1);
+
+    for (int i = 1; i <= n; i++) {
+        fact[i] = fact[i-1] * i;
+        numbers.push_back(i);
+    }
+    
+    k--; 
+    string result = "";
+
+    for (int i = n; i >= 1; i--) {
+        int idx = k / fact[i-1];
+
+        result += to_string(numbers[idx]);
+
+        numbers.erase(numbers.begin() + idx);
+
+        k %= fact[i-1];
+    }
+    return result;
+}
+};
+Complexity- O(n^2)
+
+Approach 2: Fenwick Tree
+
+struct Fenwick {
+    vector<int> bit;
+    int n;
+    Fenwick(int n): n(n) { bit.assign(n+1, 0); }
+
+    void update(int idx, int delta) {
+        for (; idx <= n; idx += idx & -idx) bit[idx] += delta;
+    }
+
+    int sum(int idx) {
+        int s = 0;
+        for (; idx > 0; idx -= idx & -idx) s += bit[idx];
+        return s;
+    }
+    int findKth(int k) {
+        int idx = 0;
+        int mask = 1 << (31 - __builtin_clz(n));
+        for (; mask; mask >>= 1) {
+            int next = idx + mask;
+            if (next <= n && bit[next] < k) {
+                idx = next;
+                k -= bit[next];
+            }
+        }
+        return idx + 1;
+    }
+};
+string getPermutation(int n, int k) {
+    vector<int> fact(n+1, 1);
+    for (int i = 1; i <= n; i++) fact[i] = fact[i-1] * i;
+
+    Fenwick fenwick(n);
+    for (int i = 1; i <= n; i++) fenwick.update(i, 1);
+
+    k--;
+    string result = "";
+
+    for (int i = n; i >= 1; i--) {
+        int groupSize = fact[i-1];
+        int idx = k / groupSize + 1; 
+        int num = fenwick.findKth(idx);
+        result += to_string(num);
+
+        fenwick.update(num, -1);
+        k %= groupSize;
+    }
+
+    return result;
+}
