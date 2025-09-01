@@ -1,0 +1,40 @@
+Maximum Subarray
+Given an integer array nums, find the subarray with the largest sum, and return its sum.
+
+Approach 1: Kadane’s Algorithm 
+
+1.) Traverse the array once.
+
+2.) At each step, decide: 
+
+    i.) Extend the current subarray (add current element), or Start a new subarray (just take current element).
+
+3.) Keep track of the maximum sum so far.
+
+Steps
+
+Initialize:
+
+currentSum = nums[0]
+maxSum = nums[0]
+
+For each element nums[i] (from index 1 to n−1):
+
+currentSum = max(nums[i], currentSum + nums[i])
+maxSum = max(maxSum, currentSum)
+Return maxSum.
+
+CODE:
+class Solution {
+public:
+    int maxSubArray(vector<int>& nums) {
+        int current_Sum = nums[0];
+        int Max_sum = nums[0];
+        for(int i=1;i<nums.size();i++)
+        {
+        current_Sum = max(nums[i], current_Sum + nums[i]);
+        Max_sum= max(Max_sum,current_Sum);
+        }
+        return Max_sum;
+    }
+};
