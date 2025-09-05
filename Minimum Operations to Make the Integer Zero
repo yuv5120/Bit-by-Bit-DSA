@@ -1,0 +1,53 @@
+Approach: Enumeration
+
+Suppose we perform k operations. Each operation subtracts (2^i+num2).
+
+After k operations:
+x=num1 − k⋅num2
+We need to check if x can be written as the sum of exactly k powers of two.
+
+Let f(x) = number of ones in the binary representation of x.
+Non-negativity:
+x≥0
+
+Lower bound: k≥f(x)
+because we need at least that many powers of two.
+
+Upper bound: k≤x
+​because at most x ones are possible.
+Thus, the condition is:
+
+f(x)≤k≤x
+
+Algorithm
+
+Iterate k from 1 to 60.
+
+60 is enough because 2 
+60 already exceeds the problem constraints.
+For each k, compute x=num1−k⋅num2.
+
+If x≥0 and f(x)≤k≤x, return k.
+
+If no valid k exists, return −1.
+
+Time Complexity: O(60)=O(1).
+Space Complexity: O(1).
+
+CODE: 
+class Solution {
+public:
+    int makeTheIntegerZero(int num1, int num2) {
+        int k = 1;
+        while (true) {
+            long long x = num1 - static_cast<long long>(num2) * k;
+            if (x < k) {
+                return -1;
+            }
+            if (k >= __builtin_popcountll(x)) {
+                return k;
+            }
+            k++;
+        }
+    }
+};
