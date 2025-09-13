@@ -35,6 +35,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3462-vowels-game-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
