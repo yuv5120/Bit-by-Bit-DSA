@@ -16,10 +16,12 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0367-valid-perfect-square](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0367-valid-perfect-square) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
