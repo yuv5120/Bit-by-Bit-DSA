@@ -17,6 +17,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Math
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0202-happy-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
