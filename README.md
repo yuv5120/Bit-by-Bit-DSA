@@ -96,4 +96,8 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3678-design-task-manager) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
