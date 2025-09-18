@@ -120,4 +120,9 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0401-binary-watch) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
