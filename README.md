@@ -43,6 +43,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0202-happy-number) |
+| [0389-find-the-difference](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0389-find-the-difference) |
 | [1006-vowel-spellchecker](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -56,6 +57,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0389-find-the-difference) |
 | [1006-vowel-spellchecker](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
@@ -65,6 +67,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0389-find-the-difference) |
 | [2887-sort-vowels-in-a-string](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Brainteaser
 |  |
@@ -113,4 +116,8 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
