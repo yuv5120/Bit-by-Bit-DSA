@@ -13,12 +13,14 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [3827-implement-router](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -98,6 +102,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -108,6 +113,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3827-implement-router) |
 ## Database
 |  |
 | ------- |
