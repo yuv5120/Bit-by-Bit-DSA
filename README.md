@@ -67,6 +67,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0165-compare-version-numbers) |
 | [0389-find-the-difference](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0389-find-the-difference) |
 | [1006-vowel-spellchecker](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -129,6 +130,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0202-happy-number) |
 ## Interactive
 |  |
