@@ -26,6 +26,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0367-valid-perfect-square) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -48,6 +49,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0389-find-the-difference) |
 | [1006-vowel-spellchecker](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1006-vowel-spellchecker) |
@@ -68,6 +70,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0389-find-the-difference](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0389-find-the-difference) |
 | [1006-vowel-spellchecker](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
