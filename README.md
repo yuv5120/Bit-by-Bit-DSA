@@ -7,6 +7,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0120-triangle) |
 | [1006-vowel-spellchecker](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -36,6 +37,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0120-triangle) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Queue
 |  |
