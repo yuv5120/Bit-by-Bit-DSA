@@ -8,6 +8,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0120-triangle) |
+| [0407-trapping-rain-water-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0611-valid-triangle-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1006-vowel-spellchecker) |
@@ -137,6 +138,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [2023-design-movie-rental-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3678-design-task-manager) |
@@ -173,6 +175,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [3797-design-spreadsheet](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3797-design-spreadsheet) |
 ## Geometry
 |  |
@@ -182,4 +185,8 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
