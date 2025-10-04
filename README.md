@@ -6,6 +6,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0011-container-with-most-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0120-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0407-trapping-rain-water-ii) |
@@ -83,6 +84,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -156,6 +158,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0202-happy-number) |
 | [0611-valid-triangle-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0611-valid-triangle-number) |
