@@ -24,6 +24,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [2324-find-triangular-sum-of-an-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3827-implement-router) |
@@ -209,5 +210,6 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## Prefix Sum
 |  |
 | ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
