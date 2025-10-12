@@ -29,6 +29,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [2324-find-triangular-sum-of-an-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Queue
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0389-find-the-difference](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0401-binary-watch) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -205,6 +209,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,4 +224,8 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
