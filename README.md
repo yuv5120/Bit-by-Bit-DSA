@@ -29,6 +29,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3827-implement-router) |
@@ -109,6 +110,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [1018-largest-perimeter-triangle](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## String
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Brainteaser
 |  |
 | ------- |
