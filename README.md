@@ -120,6 +120,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [1006-vowel-spellchecker](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -228,10 +229,12 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -242,4 +245,8 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
