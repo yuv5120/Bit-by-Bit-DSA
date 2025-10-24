@@ -61,6 +61,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3336-water-bottles-ii) |
@@ -103,6 +104,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [1612-avoid-flood-in-the-city](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2023-design-movie-rental-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -160,6 +162,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 ## Counting
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -222,6 +225,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0401-binary-watch) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
 | ------- |
@@ -265,6 +269,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Sliding Window
 |  |
 | ------- |
