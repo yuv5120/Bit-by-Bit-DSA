@@ -23,6 +23,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [2023-design-movie-rental-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2023-design-movie-rental-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
@@ -63,6 +64,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1642-water-bottles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3336-water-bottles-ii) |
@@ -135,6 +137,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -235,6 +238,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3797-design-spreadsheet](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3797-design-spreadsheet) |
 ## Geometry
 |  |
