@@ -45,6 +45,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [3797-design-spreadsheet](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [3678-design-task-manager](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -215,6 +217,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3678-design-task-manager](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3863-power-grid-maintenance) |
 ## Database
 |  |
 | ------- |
@@ -275,11 +279,13 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [0407-trapping-rain-water-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -312,4 +318,12 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
