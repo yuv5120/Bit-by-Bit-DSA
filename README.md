@@ -88,6 +88,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [0120-triangle](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0120-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -251,6 +252,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0389-find-the-difference](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0401-binary-watch) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -332,4 +334,8 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3863-power-grid-maintenance) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
