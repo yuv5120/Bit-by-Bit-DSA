@@ -18,6 +18,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1612-avoid-flood-in-the-city](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -54,6 +55,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [0367-valid-perfect-square](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0611-valid-triangle-number) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1612-avoid-flood-in-the-city](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -219,6 +221,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0407-trapping-rain-water-ii) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1612-avoid-flood-in-the-city](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
@@ -268,6 +271,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3797-design-spreadsheet](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3797-design-spreadsheet) |
