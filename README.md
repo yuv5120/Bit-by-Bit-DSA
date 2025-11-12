@@ -31,6 +31,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -79,6 +80,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [2288-count-operations-to-obtain-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3336-water-bottles-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -207,6 +209,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
