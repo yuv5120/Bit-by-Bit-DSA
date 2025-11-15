@@ -172,6 +172,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [2887-sort-vowels-in-a-string](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3797-design-spreadsheet) |
@@ -326,10 +327,12 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Sliding Window
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
