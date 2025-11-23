@@ -17,6 +17,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [1006-vowel-spellchecker](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -99,6 +100,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0120-triangle](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0120-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -160,6 +162,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [0611-valid-triangle-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -196,6 +199,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [0611-valid-triangle-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2887-sort-vowels-in-a-string) |
