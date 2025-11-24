@@ -16,6 +16,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [0830-largest-triangle-area](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -283,6 +284,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0389-find-the-difference](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0401-binary-watch) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
