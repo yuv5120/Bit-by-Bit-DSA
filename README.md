@@ -329,6 +329,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
@@ -380,4 +381,8 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
