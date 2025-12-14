@@ -94,6 +94,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [1636-number-of-substrings-with-only-1s](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2288-count-operations-to-obtain-zero) |
@@ -119,6 +120,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [1262-greatest-sum-divisible-by-three](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -205,6 +207,7 @@ A personal repository of my solutions to various Data Structures and Algorithms 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/yuv5120/Bit-by-Bit-DSA/tree/master/2429-design-a-food-rating-system) |
